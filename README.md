@@ -1,4 +1,4 @@
-# AI-Interview
+# AI Mock Interview Simulator using Multi-Agent Orchestration
 
 An **AI-powered mock interview system** built with a **multi-agent architecture** using AutoGen-style agents and **Azure OpenAI**.
 
